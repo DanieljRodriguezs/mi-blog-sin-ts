@@ -1,0 +1,10 @@
+function Suscribirse() {
+  return (
+    <div>
+      <h1>Suscríbete</h1>
+      <p>Formulario de suscripción aquí.</p>
+    </div>
+  );
+}
+
+export default Suscribirse;
